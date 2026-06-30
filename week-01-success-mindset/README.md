@@ -33,7 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+To excel or to be successful in any domain, one thing which matters the most is interest. If something is not interesting to someone its very unlikely that person may get success.. 
+Curiosity open doors for innovation and leads to a purposeful life. Every field in this world is trying to solve a problem. We shall be curious and interested to what we learn, if we aren’t curious, intersted and  just doing it just for the sake like someone told them this will bring them success it very hard to say that chances are very less. I feel this is something most people may disagree with. Most people in early days when ai was evolving was reluctant and commented that AI is bubble, will sink in few days and will not be able to code as humans, but we all know how ai evolved enormously in few years. Being reluctant and not being quickly  adaptable is the serious issue this generation is facing…
+If you aren't happy inside, you may not be happy outside. If you are happy in home, you may outperform in office, if you arent happy somewhere, that synergizes to other places definitely.
 
 ---
 
@@ -54,24 +56,22 @@ Write each truth in this format:
 ## Truth #1
 
 ### Truth
+Consistency is the mother of skill. 
 
-Add your answer here...
+### Evidence from my life 
 
-### Evidence from my life
+I tried to complete AWS Cloud Practioner for a long time, but without consistency I had to start fresh.. I committed 1 month straight and was able to get certified.
 
-Add your answer here...
-
----
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Being Calm during tensed situation is key
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I lost something I dont get crazy.. I observe, try to remember where it might have been left of, And take decision calmy and proceed step by step without rushing.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Dont Commit under pressure just to be someone's favourite.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to accept multiple challenges parallely. That's a great mistake, multi-tasking doesnt work always efficiently. And later I felt even if I would have started just with one task standalone, that might get solved very quickly. Leaving me frustrated and questioning my self belief.
 
 ---
 
