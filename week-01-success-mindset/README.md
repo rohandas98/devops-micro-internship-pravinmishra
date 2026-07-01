@@ -173,7 +173,17 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Its difficult to remember when we did anything like that, because as humans naturally have a perception we are the victims and the world is wrong with them..
+
+But still if i need to recognize that would be during my college days.. College is a place where we are independent to have our thoughts, experiment, explore, and learn.
+
+One thing which still today I feel is like I experimented less and listened to my fellow friends and always accepted and sabotaged my self belief. So anything planned during those days were never completed or you may say i withdrew very early.
+
+Very less commited plans were fulfilled and always delayed the process until the last minute. 
+
+It really gave me feeling of shame, regret later for many years...
+
+
 
 ---
 
@@ -198,17 +208,17 @@ Choose books that improve:
 * leadership
 
 ## Book List
+1. Wings of Fire - **APJ Abdul Kalam**
+2. Steve Jobs - **Walter Issacson**
+3. Hello World: How to be Human in the Age of the Machine - **Hannah Fry**
+4. Four Thousand Weeks: Time Management for Mortals - **Oliver Burkeman**
+5. Why your Strategy Sucks - **Sandeep Das**
+6. How Business Storytelling Works: Increase Your Influence and Impact - **Sandeep Das**
+7. The Upstarts - **Brad Stone**
+8. The Everything Store: Jeff Bezos and the Age of Amazon - **Brad Stone**
+9. Ikigai: The Japanese Secret to a Long and Happy Life - **Francesc Miralles and Hector Garcia**
+10. India 2020: A Vision for the New Millennium  **A. P. J. Abdul Kalam and Yagnaswami Sundara Rajan**
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
 
 ---
 
@@ -237,16 +247,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning Hours Record Per Day and Review Per Month
+* Projects Shipped/built
+* Reading books hour Per Week
+* Spending Tracker
+* Measuring Sleep Hour consistency
+* Measuring Meditation minutes
 
 ---
 
@@ -270,9 +276,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: No
 
-Add your answer here...
+Sometimes when I am too stressed or get overwhelm. I write it on my notebook. But I will keep a note of everything from now onwards and I will do so in a notepad in my Laptop..
 
 ---
 
@@ -290,7 +296,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon - Fri : 3 hour deep work
+* Sat - DMI Session
+* Sun - Weekly review, 3 hour deep work.
 
 ---
 
@@ -298,11 +306,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Mon - Fri : Morning 7.30 AM to 10:30 AM, Evening: 9.30PM to 10.30PM
+* Sun :  Morning 10.30 AM to 1.30PM
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+* Morning : 5 sessions (Mandatory), Evening Session: Mainly for Reveiw and Recall and next day planning.
 
 ---
 
@@ -316,7 +326,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone on Silent mode or in another room strictly during sessions.
+
+* Social Media usage only during my travel hours to and from office only not every day only when time permits.. No social media usage during DMI Sessions.
+
+* Library visit to concentrate on deep work session for long hours.
 
 ---
 
@@ -324,15 +338,18 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I used to deep dive and chase perfection on every topic. 
+But as DMI session started with the quote: "Concentrate on Completion not on Perfection" I need to keep this on my mind.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Time Management is a weakness. I dont waste time less on leisure and fun but still I lose track of my time.
+
+Always late or delayed. Time Management is the biggest weakness as of now.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Respect Time and Do activity as per planning and not getting lazy easily.
 
 ### LinkedIn Post
 
