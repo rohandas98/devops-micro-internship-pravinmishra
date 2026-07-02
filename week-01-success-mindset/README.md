@@ -23,13 +23,6 @@ You will reuse this in later weeks. So do it properly once.
 
 # Assignment 1. What is something you believe to be true that most people around you would disagree with?
 
-### Rules
-
-* No "safe" answers.
-* Must be your real belief (not copied from internet).
-* Minimum 50 words.
-
-**Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
 
@@ -44,14 +37,6 @@ If you aren't happy inside, you may not be happy outside. If you are happy in ho
 ### Definition
 
 Objective truths do not depend on opinions. They hold true regardless of how people feel.
-
-Write each truth in this format:
-
-**Truth:** (1 sentence)
-
-**Evidence from my life:** (2–4 lines: what you tried + what happened)
-
----
 
 ## Truth #1
 
@@ -135,13 +120,28 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+## From Writing Code to Running the Cloud: How Rohan Kumar Das Became the Architect Behind the Infrastructure
+
+![Assignment 3 screenshots](screenshots/medium-cover.png)
+
+Five years ago, Rohan Kumar Das was a developer shipping application code and quietly wondering why deployments still broke on Friday evenings. Today, he is the Cloud Architect other engineers call when a platform needs to scale — and the reason his company’s deployments haven’t broken in two years.
+
+His pivot started in 2026, when he graduated from DMI Cohort 3 by Pravin Mishra — the program that gave his transition structure and direction. While still working as a developer, he went on to earn the AWS Solutions Architect Associate certification, and within a year had stacked the Certified Kubernetes Administrator (CKA) and HashiCorp Terraform Associate credentials on top of it, and moved into his first cloud engineering role. He later completed the AWS Solutions Architect Professional, the certification he called “the one that changed how I think, not just what I know.” Alongside the certifications, he worked through foundational books cover to cover — Designing Data-Intensive Applications and Computer Networking: A Top-Down Approach — building the systems and networking depth that separated him from engineers who only knew the tooling.
+
+The proof, though, was never the paper. It was the work. He led the migration of his company’s legacy monolith to a containerized microservices platform on EKS, cutting infrastructure costs by 40% and reducing deployment time from hours to minutes. He designed the CI/CD pipelines that took his team from weekly releases to shipping multiple times a day.
+
+Along the way, he published a technical blog, Pipelines & Postmortems, where his write-ups on Kubernetes failure scenarios and cost-optimization patterns drew a steady readership of engineers facing the same problems he once did. He spoke at two regional DevOps meetups and mentored three junior developers through the same developer-to-cloud transition he made himself — one of whom now runs infrastructure at a fintech startup.
+
+By 2031, Rohan led a platform engineering team of six, owning cloud architecture across three product lines. Asked what made the switch work, his answer was characteristically practical: “I stopped waiting to feel ready. I got certified, built things in public, and let the work speak.”
+
+The work spoke. Loudly.
+
+**P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
 ### Public Link
 
-Paste your link here:
 
-`__________________________`
+**[Medium](https://medium.com/@rd43403/from-writing-code-to-running-the-cloud-how-rohan-kumar-das-became-the-architect-behind-the-7b49305a5780?sharedUserId=rd43403) **
 
 ---
 
@@ -167,7 +167,7 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes: Shame, Regret
 
 **What emotion did you feel?** (minimum 50–100 words)
 
@@ -312,7 +312,7 @@ Example:
 
 #### How Many Sessions Per Week?
 
-* Morning : 5 sessions (Mandatory), Evening Session: Mainly for Reveiw and Recall and next day planning.
+* Morning : 5 sessions (Mandatory), Evening Session: Mainly for Review and Recall and next day planning.
 
 ---
 
@@ -353,16 +353,36 @@ Respect Time and Do activity as per planning and not getting lazy easily.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Week 1 of DMI Cohort 3 with Pravin Mishra — and I'm already rethinking how I work. 💡
 
-`__________________________`
+![Assignment 3 screenshots_1](screenshots/linked_in_post_image.png)
+
+The very first session opened with a line that hit me hard:
+
+"Concentrate on Completion, not on Perfection."
+
+I've always been the person who deep-dives into every topic, chasing perfection before moving forward. It feels productive, but the truth is — it slows me down. This week made me realize that finishing matters more than polishing endlessly.
+
+The second, more uncomfortable insight? Time management is my biggest weakness right now. I don't waste much time on leisure, yet I still lose track of it — always running late, always delayed. Recognizing the loop is the first step to breaking it.
+
+So here's the system I'm committing to from this week:
+✅ Respect time — treat my schedule as a promise, not a suggestion
+✅ Execute as per plan, not as per mood
+✅ Ship it, then improve it — completion over perfection
+
+Week 1 down. Excited (and a little nervous) for what's ahead.
+
+Thank you Pravin Mishra Sir and the DMI community for setting the tone. 🙏
+
+hashtag#DMI hashtag#Cohort3 hashtag#Learning hashtag#GrowthMindset hashtag#TimeManagement hashtag#WeekOneReflection
+
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_dmi-cohort3-learning-share-7478300189817069568-IJ1o/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**  
+- Blog / Medium : **[MEDIUM](https://medium.com/@rd43403/from-writing-code-to-running-the-cloud-how-rohan-kumar-das-became-the-architect-behind-the-7b49305a5780?sharedUserId=rd43403)**  
 
 ---
 
