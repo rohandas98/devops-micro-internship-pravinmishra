@@ -46,7 +46,10 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Assignment 8 screenshots](screenshots/Assignment8/A8Screenshot1.png)
+![Assignment 8 screenshots](screenshots/Assignment8/A8Screenshot2.png)
+![Assignment 8 screenshots](screenshots/Assignment8/A8Screenshot3.png)
+![Assignment 8 screenshots](screenshots/Assignment8/A8Screenshot4.png)
 
 ---
 
@@ -54,7 +57,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+**[!Dev.to](https://dev.to/rohan_das_32be6304bddb383/what-i-learned-about-agentic-ai-and-devops-week-2-of-the-devops-micro-internship-25pl)**
 
 ---
 
@@ -62,7 +65,29 @@ Blog Link:
 
 ## Goal
 
-Share your Week 2 learning publicly on LinkedIn.
+Permissions aren't bureaucracy. They're safety engineering.
+
+That was my biggest takeaway from Week 2 of my DMI, working with Agentic AI and Claude Code.
+
+I went in thinking AI = answering questions and generating snippets.
+
+I came out understanding that Agentic AI can follow structured, multi-step workflows: plan → execute → verify → self-correct.
+
+And with that power, control becomes the real skill:
+
+• An agent with Write access it doesn't need = a junior engineer with prod credentials on day one
+• Reusable skills cut manual work
+• Subagents split responsibilities cleanly
+• MCP connects the agent to real systems — I watched it pull a README.md live from GitHub, no assumptions
+• And human review still sits at the top
+
+The role of a DevOps engineer is shifting from doing every task manually to designing workflows, setting guardrails, and reviewing output.
+
+That's not less engineering. It's a different kind of engineering.
+
+Full Week 2 reflection on my blog — link in the comments.
+
+#DevOps #AgenticAI #ClaudeCode #MCP #Automation #LearningInPublic
 
 ---
 
@@ -92,7 +117,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Assignment 8 screenshots](screenshots/Assignment8/A8Screenshot5.png)
 
 ---
 
@@ -101,14 +126,34 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Permissions aren't bureaucracy. They're safety engineering.
+
+That was my biggest takeaway from Week 2 of my DevOps Micro Internship, working with Agentic AI and Claude Code.
+
+I went in thinking AI = answering questions and generating snippets.
+
+I came out understanding that Agentic AI can follow structured, multi-step workflows: plan → execute → verify → self-correct.
+
+And with that power, control becomes the real skill:
+
+• An agent with Write access it doesn't need = a junior engineer with prod credentials on day one
+• Reusable skills cut manual work
+• Subagents split responsibilities cleanly
+• MCP connects the agent to real systems — I watched it pull a README.md live from GitHub, no assumptions
+• And human review still sits at the top
+
+The role of a DevOps engineer is shifting from doing every task manually to designing workflows, setting guardrails, and reviewing output.
+
+That's not less engineering. It's a different kind of engineering.
+
+My highest regards to Anjana Muthunayake & Ranbir Kaur for the support..
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+**[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-agenticai-claudecode-share-7481370066769522688-GPRO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**
 
 ---
 
