@@ -20,19 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is a unique identity on Amazon's cloud platform that gives me access to the AWS Management Console and its services. Currently I will be able to learn Linux Fundamentals and build projects based on my learning.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier is a program that lets new users explore AWS services without paying. Under the current model, I receive $100 in credits at sign-up and can earn up to $100 more by completing onboarding activities, for a total of $200. The free plan lasts 6 months or until the credits run out, whichever comes first. There are also 30+ 'Always Free' services with monthly usage limits.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon DynamoDB — 25 GB of storage per month (NoSQL database)
+Amazon CloudWatch — 10 custom metrics and 10 alarms, plus basic monitoring
+Amazon SNS — 1 million publishes per month
 
 ---
 
@@ -56,7 +58,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![Assignment 1 screenshots](screenshots/Assignment1/Screenshot1.png)
 
 ---
 
@@ -70,11 +72,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [✅] Task 1 answers written in own words
+- [✅] AWS Free Tier account created successfully
+- [✅] Signed in to AWS Management Console
+- [✅] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [✅] All required screenshots added to repository
 
 ---
 
