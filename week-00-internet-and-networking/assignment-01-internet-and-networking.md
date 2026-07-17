@@ -23,8 +23,6 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
 ![Task 1 Screenshot](screenshots/image.png)
 
 
@@ -96,12 +94,10 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
-
 ![Application Architecture Diagram](screenshots/image2.png)
 ![Application Architecture Diagram](screenshots/image3.png)
 
-Replace `task-3-diagram.png` with your actual diagram file name.
+
 
 
 ---
@@ -186,16 +182,12 @@ ls
 
 * Your selected VS Code theme clearly visible
 
-⚠️ **Important:** The screenshot must show your username or another identifiable detail to confirm it is your environment.
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![VS Code Setup Screenshot](screenshots/image4.png)
 
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -231,7 +223,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
+```
 https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-networking-softwarearchitecture-share-7459480018029826048-ZGV4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM
 
 ```
