@@ -25,16 +25,17 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/image.png)
 
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Through this task I got to know how apps like chatgpt, gemini, claude could be so beneficial for our learning journey. 
+For example, in this case , it has explained the concept of Application port so well using real world examples. 
+It categorised the ports in 3 segments: Well known ports(HTTP,HTTPS,SSH), Registered Port(MySQL,PostgreSQL) and ephemeral ports.
+
 
 ---
 
@@ -59,7 +60,13 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+To deliver a website (Epic Reads) from a server in Finland to a global user, the data follows a precise relay system:
+Packet Switching: Website data is broken into small "packets" that travel independently across the fastest global routes. This ensures efficient delivery and prevents network congestion.
+IP Address: Every device has a unique IP address, acting like a digital home address. This ensures data from Finland reaches the specific requesting device accurately.
+TCP/IP(Transamission Control Protocol/Internet Protocol): This protocol suite governs the journey. TCP ensures all packets arrive error-free and in the correct order, while IP handles the routing to the destination.
+HTTP/HTTPS: These are the rules for web communication. HTTP allows browsers to request content, while HTTPS adds encryption, ensuring that all data exchanged between the user and the server remains private and secure.
+This combined architecture ensures the website loads quickly and safely, regardless of physical distance. 
+
 
 ---
 
@@ -91,10 +98,11 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
-
+![Application Architecture Diagram](screenshots/image2.png)
+![Application Architecture Diagram](screenshots/image3.png)
 
 Replace `task-3-diagram.png` with your actual diagram file name.
+
 
 ---
 
@@ -102,18 +110,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML, CSS, JS, Next.js
+
+
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js, Express.js
+
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
 
 ---
 
@@ -142,7 +150,13 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1) Computers communicate via numerical IP addresses, however as human we are more adaptable to letters, words and names so instead of memorising and sharing addresses as IP address we purchase domain from registrars. DNS is like a phonebook which translates the human friendly names to their specific IP addresses.
+
+2) Epic Reads is currently accessible via IP 52.172.142.222:3000.
+52.172.142.222 is an IPV4 address.To connect the domain to the bookstore's IP, you should use an A Record (Address Record). This record type is specifically designed to map a domain name directly to an IPv4 address. By configuring this, any browser requesting the domain will be pointed to 52.172.142.222, allowing the website to load seamlessly for the user. 
+By default all browsers consider port 80 as the default port for any web app. But here you specifically assigned port 3000.
+So you may have to enter epicreads.com:3000 to load the website.
+
 
 ---
 
@@ -178,7 +192,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/image4.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,7 +232,8 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-networking-softwarearchitecture-share-7459480018029826048-ZGV4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM
+
 ```
 
 ---
@@ -227,7 +242,32 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 DEVOPS JOURNEY: WEEK 0 COMPLETE 🎯
+
+I’m excited to share that I’ve officially kicked off my DevOps Learning journey by completing Week 0 of the DevOps Micro-Internship Cohort! 💻☁️
+
+Before diving into automation, CI/CD pipelines, and cloud infrastructure, I focused on building a rock-solid understanding of the fundamentals that power the modern web. 🌐
+
+🔹 INTERNET & NETWORKING
+Explored the first principles of how data moves across the internet through Packet Switching and the TCP/IP suite. Understanding how data travels globally is crucial for diagnosing and troubleshooting real-world infrastructure and connectivity issues. 📡
+
+🔹 APPLICATION ARCHITECTURE
+Learned the evolution of system design by comparing Monolithic, 2-Tier, and 3-Tier Architectures. Understanding the separation of presentation, business logic, and data layers is a key step toward building scalable and production-ready systems. 🏗️
+
+🔹 DNS (DOMAIN NAME SYSTEM)
+Dove into how DNS acts as the 📖 “phonebook of the internet” by translating human-readable domain names into IP addresses. This concept plays a massive role in high availability, traffic routing, and global load balancing. 🌍⚡
+
+🔹 VS CODE OPTIMIZATION
+Optimized my development environment by configuring VS Code, useful extensions, and terminal settings for a smoother and more productive workflow. 🛠️✨
+
+🎯 FUTURE OUTLOOK
+This is just the beginning! Building strong fundamentals is the first step toward becoming a skilled DevOps Engineer. 
+
+🙌 Special thanks to Pravin Mishra for leading this FREE DevOps Micro-Internship Cohort and creating such valuable learning content.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
+
+#DevOps #Networking #SoftwareArchitecture #CloudComputing #Linux #Git #ContinuousLearning #TechCommunity #SystemDesign #DevOpsJourney
 
 ---
 
@@ -235,19 +275,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Task3: Application Architecture and Stack
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Task2: Internet and Networking
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Writing Blogs Consistently and in a very simple and articulate the findings so well that every person could understand.
 
 ---
 
