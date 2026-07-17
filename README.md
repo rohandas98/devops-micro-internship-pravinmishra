@@ -76,8 +76,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 02 → Agentic AI with Claude Code -->
  [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+ Week 03 → Linux & Bash for DevOps -->
+ [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅Completed| ✅ Solved | [LinkedIn ](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-networking-softwarearchitecture-share-7459480018029826048-ZGV4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM) | — |
 | 01 | Success Mindset | ✅Completed | ✅ Solved | [LinkedIn ](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_dmi-cohort3-learning-activity-7478300193390530560-_KBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM) | [Medium](https://medium.com/@rd43403/from-writing-code-to-running-the-cloud-how-rohan-kumar-das-became-the-architect-behind-the-7b49305a5780?sharedUserId=rd43403) |
 | 02 | Agentic AI with Claude Code | ✅Completed  | ✅ Solved | **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-agenticai-claudecode-share-7481370066769522688-GPRO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**|**[Dev.to](https://dev.to/rohan_das_32be6304bddb383/what-i-learned-about-agentic-ai-and-devops-week-2-of-the-devops-micro-internship-25pl)**|
-| 03 | Linux & Bash for DevOps | 🔄 In Progress | ✅ Solved | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-nginx-linux-share-7483780914737528832-JPqL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_learning-growthmindset-cloudcomputing-share-7483969915960414209-YzO-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM |
+| 03 | Linux & Bash for DevOps | ✅Completed | ✅ Solved | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-nginx-linux-share-7483780914737528832-JPqL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_learning-growthmindset-cloudcomputing-share-7483969915960414209-YzO-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
