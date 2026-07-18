@@ -501,7 +501,7 @@ Didnt allow AI Agent to run command on behalf of us
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+Gather -> Analyze -> Human Act -> Verify
 
 ---
 
