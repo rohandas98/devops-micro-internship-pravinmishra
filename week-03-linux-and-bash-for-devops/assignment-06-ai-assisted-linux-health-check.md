@@ -513,7 +513,11 @@ Gather -> Analyze -> Human Act -> Verify
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-cloudengineering-linux-share-7484019756581261312-K4dV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -527,7 +531,11 @@ Paste your LinkedIn post URL here:
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
+<<<<<<< HEAD
 `https://github.com/rohandas98/devops-micro-internship-pravinmishra.git`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

@@ -116,7 +116,7 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 Include this line:
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
@@ -141,7 +141,11 @@ The work spoke. Loudly.
 ### Public Link
 
 
+<<<<<<< HEAD
 **[Medium](https://medium.com/@rd43403/from-writing-code-to-running-the-cloud-how-rohan-kumar-das-became-the-architect-behind-the-7b49305a5780?sharedUserId=rd43403) **
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -376,6 +380,10 @@ Thank you Pravin Mishra Sir and the DMI community for setting the tone. 🙏
 
 hashtag#DMI hashtag#Cohort3 hashtag#Learning hashtag#GrowthMindset hashtag#TimeManagement hashtag#WeekOneReflection
 
+<<<<<<< HEAD
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

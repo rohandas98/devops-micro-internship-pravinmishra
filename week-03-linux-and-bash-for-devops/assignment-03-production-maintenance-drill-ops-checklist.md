@@ -452,7 +452,11 @@ Cloud resources like EC2 instances, RDS databases, and load balancers are billed
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-linux-nginx-share-7483632258227224577-L1G0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

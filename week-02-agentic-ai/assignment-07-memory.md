@@ -91,14 +91,24 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 ## Linkedin Post Link
 
+<<<<<<< HEAD
 **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_my-ai-agent-just-remembered-a-project-decision-share-7481288898929762305-9njx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**
+=======
+Paste your Linkedin post link here:
+
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
 ## GitHub Repository URL
 
 
+<<<<<<< HEAD
 **[Github](https://github.com/rohandas98/Ultimate-Agentic-DevOps-with-Claude-Code.git)**
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

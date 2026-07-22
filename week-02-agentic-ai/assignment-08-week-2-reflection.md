@@ -57,7 +57,11 @@ You can publish your blog on:
 
 Blog Link:
 
+<<<<<<< HEAD
 **[!Dev.to](https://dev.to/rohan_das_32be6304bddb383/what-i-learned-about-agentic-ai-and-devops-week-2-of-the-devops-micro-internship-25pl)**
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -103,7 +107,7 @@ Your post must include:
 
 ### Required P.S. Line (Must Include Exactly)
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining [DMI waiting list](https://forms.gle/3hvrWJBDzsDeJoPs6) (https://forms.gle/3hvrWJBDzsDeJoPs6).**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 ---
 
@@ -153,7 +157,11 @@ My highest regards to Anjana Muthunayake & Ranbir Kaur for the support..
 
 ### LinkedIn Post Link:
 
+<<<<<<< HEAD
 **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-agenticai-claudecode-share-7481370066769522688-GPRO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

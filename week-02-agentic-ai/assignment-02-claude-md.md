@@ -98,7 +98,13 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 ## GitHub Repository URL
 
+<<<<<<< HEAD
 - Github: **[Github - Ultimate-Agentic-DevOps-with-Claude-Code](https://github.com/rohandas98/Ultimate-Agentic-DevOps-with-Claude-Code.git)**
+=======
+Paste your forked repository URL here:
+
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
