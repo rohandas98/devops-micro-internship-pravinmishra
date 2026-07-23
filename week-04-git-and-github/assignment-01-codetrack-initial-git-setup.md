@@ -34,7 +34,16 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+.git is a hidden folder at the root of a repository, and it is the repository. 
+A plain folder is just files — whatever state they're in right now, and nothing else.
+Adding .git turns that folder into a repository. Concretely, the folder gains:
+
+History — every past version of every file, so you can look at or return to any point.
+Branches — parallel lines of work in the same folder, switchable in a moment.
+A staging area — you choose what goes into the next commit rather than saving everything at once.
+Remotes — a recorded link to GitHub or similar, so push and pull know where to go.
+
+Everything above lives inside .git. So the folder isn't "connected to git" in some external sense — it contains git. Move the folder anywhere, rename it, copy it to another machine: still a repo. Delete .git: instantly an ordinary folder again, with your current files intact but the past erased.
 
 ---
 
@@ -76,11 +85,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
-- [ ] Explanation of the `.git` folder written in your own words
-- [ ] Local `user.name` and `user.email` configured and verified (Screenshot 3)
-- [ ] Global `user.name` and `user.email` configured and verified (Screenshot 4)
-- [ ] No sensitive data exposed
+- [✅] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
+- [✅] Explanation of the `.git` folder written in your own words
+- [✅] Local `user.name` and `user.email` configured and verified (Screenshot 3)
+- [✅] Global `user.name` and `user.email` configured and verified (Screenshot 4)
+- [✅] No sensitive data exposed
 
 ---
 
