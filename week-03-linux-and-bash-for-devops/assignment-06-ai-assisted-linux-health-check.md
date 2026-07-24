@@ -139,13 +139,13 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-![Assignment 6 screenshots](screenshots/Assignment6/Screenshot5.png)
+![Assignment 6 screenshots](screenshots/Assignment6/Screenshot5_.png)
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-![Assignment 6 screenshots](screenshots/Assignment6/Screenshot6.png)
+![Assignment 6 screenshots](screenshots/Assignment6/Screenshot6_.png)
 
 ---
 
