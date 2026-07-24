@@ -20,13 +20,13 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot1.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot1.png)
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot2.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot2.png)
 
 ---
 
@@ -40,20 +40,20 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot3.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot3.png)
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot4.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot5_1.png)
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot5_2.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot5_1.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot5_2.png)
 
 ---
 
@@ -67,7 +67,7 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
 
-![Assignment 2 screenshots](screenshots/Assignment4/Screenshot6.png)
+![Assignment 4 screenshots](screenshots/Assignment4/Screenshot6.png)
 
 ---
 
