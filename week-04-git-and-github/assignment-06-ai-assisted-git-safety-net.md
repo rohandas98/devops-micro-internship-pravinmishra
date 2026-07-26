@@ -298,8 +298,6 @@ Add 3-5 bullet points on what you learned this week.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
 https://github.com/rohandas98/devops-micro-internship-pravinmishra.git
 
 ---

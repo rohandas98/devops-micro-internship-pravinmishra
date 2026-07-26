@@ -141,11 +141,7 @@ The work spoke. Loudly.
 ### Public Link
 
 
-<<<<<<< HEAD
 **[Medium](https://medium.com/@rd43403/from-writing-code-to-running-the-cloud-how-rohan-kumar-das-became-the-architect-behind-the-7b49305a5780?sharedUserId=rd43403) **
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 
@@ -380,10 +376,6 @@ Thank you Pravin Mishra Sir and the DMI community for setting the tone. 🙏
 
 hashtag#DMI hashtag#Cohort3 hashtag#Learning hashtag#GrowthMindset hashtag#TimeManagement hashtag#WeekOneReflection
 
-<<<<<<< HEAD
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 

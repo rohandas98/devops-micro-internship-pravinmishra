@@ -57,11 +57,7 @@ You can publish your blog on:
 
 Blog Link:
 
-<<<<<<< HEAD
 **[!Dev.to](https://dev.to/rohan_das_32be6304bddb383/what-i-learned-about-agentic-ai-and-devops-week-2-of-the-devops-micro-internship-25pl)**
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 
@@ -157,11 +153,7 @@ My highest regards to Anjana Muthunayake & Ranbir Kaur for the support..
 
 ### LinkedIn Post Link:
 
-<<<<<<< HEAD
 **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-agenticai-claudecode-share-7481370066769522688-GPRO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 
