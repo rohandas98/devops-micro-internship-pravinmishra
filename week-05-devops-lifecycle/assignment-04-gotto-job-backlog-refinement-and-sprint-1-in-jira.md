@@ -207,8 +207,6 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 (https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-agile-scrum-share-7493738999656857600-Axky/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)
 
 ---
