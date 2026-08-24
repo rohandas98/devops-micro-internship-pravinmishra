@@ -34,7 +34,7 @@ Create a globally unique S3 bucket in your chosen AWS region.
 
 #### Screenshot 2 — S3 bucket created screen showing the bucket name and region
 
-![Assignment 6 screenshots](screenshots/Assignment3/Screenshot2.png)
+![Assignment 6 screenshots](screenshots/Assignment2/Screenshot2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Upload the contents of the template folder (not the folder itself) so `index.htm
 
 #### Screenshot 3 — S3 bucket Objects view showing `index.html` at the top or root level
 
-![Assignment 6 screenshots](screenshots/Assignment3/Screenshot3.png)
+![Assignment 6 screenshots](screenshots/Assignment2/Screenshot3.png)
 
 ---
 
@@ -62,7 +62,7 @@ Enable S3 Static Website Hosting with `index.html` as the index document and `er
 
 #### Screenshot 4 — Static website hosting enabled screen showing the Website endpoint
 
-![Assignment 6 screenshots](screenshots/Assignment3/Screenshot4.png)
+![Assignment 6 screenshots](screenshots/Assignment2/Screenshot4.png)
 
 ---
 
@@ -76,7 +76,7 @@ Adjust Block Public Access settings and save a bucket policy that grants public 
 
 #### Screenshot 5 — Bucket policy page showing the policy saved successfully, with the bucket name visible
 
-![Assignment 6 screenshots](screenshots/Assignment3/Screenshot5.png)
+![Assignment 6 screenshots](screenshots/Assignment2/Screenshot5.png)
 
 ---
 
@@ -90,7 +90,7 @@ Load the site through the S3 website endpoint and confirm the homepage, images, 
 
 #### Screenshot 6 — Browser showing the live website with the S3 website endpoint visible in the address bar
 
-![Assignment 6 screenshots](screenshots/Assignment3/Screenshot6.png)
+![Assignment 6 screenshots](screenshots/Assignment2/Screenshot6.png)
 
 ---
 
@@ -104,7 +104,7 @@ Edit a small visible detail, re-upload it to S3, and confirm the change appears 
 
 #### Screenshot 7 (optional) — Before and after views, or a browser view showing the updated text
 
-![Assignment 6 screenshots](screenshots/Assignment3/Screenshot7.png)
+![Assignment 6 screenshots](screenshots/Assignment2/Screenshot7.png)
 
 ---
 
