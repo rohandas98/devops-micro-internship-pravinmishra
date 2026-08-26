@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![Assignment 6 screenshots](screenshots/Assignment6/aws_3_tier_architecture.jpg)
 
 ---
 
@@ -34,14 +34,13 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+ap-south-1 (Asia Pacific - Mumbai) region
 
 ---
 
 **Services:**
 
-Write your answer here.
-
+Amazon VPC, VPC Subnets, Internet Gateway & NAT Gateway, Amazon EC2, Elastic Load Balancing (ELB), Target Groups, Amazon RDS (Relational Database Service)
 ---
 
 # Task 3 — Public Entry Point
@@ -56,7 +55,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+http://Book-Review-Web-ALB-1292796159.ap-south-1.elb.amazonaws.com
 
 ---
 
@@ -70,37 +69,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/ScreenshotWEBEc2.png)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/ScreenshotAppEc2.png)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/ScreenshotPublicALB.png)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/ScreenshotInternalALB.png)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/ScreenshotRDS+Replica.png)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/ScreenshotAppUIProof2.png)
 
 ---
 
@@ -114,19 +113,54 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+Robust High-Availability Network Layer: Our custom VPC (book-review-vpc) with six subnets successfully segmented the web, app, and database tiers across two active Availability Zones (ap-south-1a and ap-south-1b), establishing a highly secure networking baseline with redundant routing tables and gateways.
 
+Highly Resilient Database Tier: The managed MySQL RDS deployment functioned perfectly, replicating write operations from our primary DB instance (database-1) in Mumbai AZ-B asynchronously to our Read Replica database (book-review-db-replica) in AZ-A to safely offload and scale read queries.
+
+Path-Based Application Traffic Routing: Network traffic cleanly traversed our architecture: public internet users successfully reached Nginx on the Web EC2 via the internet-facing Public ALB, and Nginx acted as a reverse proxy to route frontend page requests locally and forward API calls securely through the Internal ALB to our Express backend on port 3001.
+
+System Persistence & Boot Survivability: Implementing PM2 globally and linking it to Ubuntu's systemd manager ensured that our frontend and backend processes continued running as independent background daemons and would automatically recover after server reboots
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+Application Processes Terminating on SSH Exit:
+Issue: Initially launching the backend with node src/server.js and the frontend with npm start meant application processes were bound to active SSH sessions; closing the terminals killed the servers and took the platform down.
+
+Fix: Started both apps under PM2 daemon control (pm2 start), ran pm2 startup to integrate with Ubuntu's systemd, and executed pm2 save to preserve the persistent process lists.
+
+Nginx Serving Default Landing Page instead of App UI:
+Issue: Nginx on the Web EC2 kept serving its default "Welcome to nginx" page instead of your Next.js application because the custom configuration file existed in sites-available but was not active.
+
+Fix: Created a symbolic link using sudo ln -s to link the block into /etc/nginx/sites-enabled/, deleted Nginx's default site file, ran sudo nginx -t to verify the configuration syntax, and restarted the Nginx service.
+
+
+Mismatched API Routes (Avoided Path Stripping):
+Issue: Configuring Nginx with an incorrect forwarding path pattern risked stripping the /api prefix when sending traffic to the private Internal ALB, which would cause the backend to return 404 errors.
+
+Fix: Deliberately left the trailing slash off the proxy_pass target block in the Nginx configuration, forcing Nginx to forward the full, original request path directly to the application layer.
+
+Client-Side API Path Doubling (/api/api/):
+Issue: Live browser testing exposed a path-doubling bug on client-side API requests (e.g. attempting to fetch /api/api/books), rendering the browser unable to load dynamic data despite command-line tests passing.
+
+Fix: Configured .env.local on the Web EC2 with NEXT_PUBLIC_API_URL=/api to enforce relative routing
+, then ran npm run build to bake this same-origin path directly into the compiled Next.js client-side bundles prior to restarting the server.
+
+
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+Layered CLI curl Diagnostics: Used systematically across multiple network boundaries—testing the Express API locally (localhost:3001), the Next.js UI locally (localhost:3000), the Nginx reverse proxy locally (localhost/api/books), and finally the Public ALB DNS endpoint—to pinpoint exactly which network hop was blocking traffic.
+
+Browser Console Inspections: Executed end-to-end functional flows in a live web browser (testing account registration, user logins, and posting book reviews) to catch client-side JavaScript execution bugs that simple command-line triggers missed.
+
+PM2 Process Tooling: Utilised pm2 status, pm2 logs, and pm2 restart to capture output streams, debug crash tracebacks, and seamlessly apply updated environment settings.
+
+MySQL Command-Line Client: Deployed mysql-client with SSL certificate verification from inside the App EC2 to test private security group connectivity, inspect existing databases, and execute the CREATE DATABASE book_review_db; schema initialization before launching Express.
+
+
 
 ---
 
@@ -140,15 +174,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-`Add your URL here`
+https://lnkd.in/p/dayyBt3i
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![Assignment 6 screenshots](screenshots/Assignment6/LinkedInScreenshot.png)
 
 ---
 
@@ -161,14 +193,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Architecture diagram completed
-- [ ] Task 2: AWS Region and services documented
-- [ ] Task 3: Public ALB DNS confirmed working
-- [ ] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
-- [ ] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
-- [ ] LinkedIn post published and URL submitted
-- [ ] App Tier and Database Tier confirmed not publicly accessible
-- [ ] No sensitive data exposed
+- [✅] Task 1: Architecture diagram completed
+- [✅] Task 2: AWS Region and services documented
+- [✅] Task 3: Public ALB DNS confirmed working
+- [✅] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
+- [✅] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
+- [✅] LinkedIn post published and URL submitted
+- [✅] App Tier and Database Tier confirmed not publicly accessible
+- [✅] No sensitive data exposed
 
 ---
 
