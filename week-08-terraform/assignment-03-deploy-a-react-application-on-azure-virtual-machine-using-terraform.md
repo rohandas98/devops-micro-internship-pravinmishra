@@ -218,9 +218,6 @@ Remove all Azure resources created by Terraform after completing the application
 
 ### Screenshot 15 — Terraform Destroy
 
-Add a screenshot of the terminal showing successful `terraform destroy` completion.
-
-
 
 ---
 
