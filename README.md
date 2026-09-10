@@ -137,8 +137,8 @@ Week 04 → Git & GitHub -->
 | 04 | Git & GitHub | ✅Completed | ✅ Solved | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_docs-add-my-name-to-student-list-by-rohandas98-share-7486332448323035136-5hfr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM | https://medium.com/@rd43403/my-reflection-on-git-and-github-aa495e4b06fa|
 | 05 | DevOps Lifecycle & Agile | ✅Completed | ✅ Solved | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_devops-agile-scrum-share-7493738999656857600-Axky/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM | — |
 | 06 | AWS Cloud | ✅Completed | ✅ Solved | https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_excited-to-share-my-aws-capstone-project-ugcPost-7498215918737661952-d2lB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud | ✅Completed | ✅ Solved | https://lnkd.in/p/dhe4B-sm | — |
+| 08 | Terraform | 🔄 In Progress | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
