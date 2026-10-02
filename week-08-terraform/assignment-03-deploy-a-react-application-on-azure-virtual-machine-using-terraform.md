@@ -1,6 +1,6 @@
 # Assignment 3 — Deploy a React Application on Azure Using Terraform
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -176,7 +176,7 @@ Connect to the Azure Linux virtual machine and confirm that the cloud-init/user 
 
 ### Screenshot 12 — SSH Connection and Completed React Deployment
 
-Add a screenshot of the SSH terminal showing a successful connection to the Azure VM and evidence that the React application deployment completed.
+Add a screenshot of SSH terminal showing successful connection to the Azure VM and evidence that the React application deployment completed such as the deployed files in `/var/www/html` or successful cloud-init output.
 
 ![Week8 screenshots](screenshots/Assignment3/Screenshot12.png)
 
@@ -221,10 +221,51 @@ Remove all Azure resources created by Terraform after completing the application
 
 ---
 
+# Task 7 — Share Your Deployment Progress on LinkedIn
+
+## Goal
+
+Share your React application deployment progress and DMI Leaderboard link on LinkedIn.
+
+## Steps
+
+1. Open the DMI Leaderboard and find your name.
+2. Select **Share your progress**.
+3. Select the **LinkedIn** option.
+4. Use the generated message containing your leaderboard rank and personal progress link.
+5. Attach **Screenshot 14** showing your React application running in the browser.
+6. Add this caption:
+
+```text
+Just deployed a React application on an Azure Virtual Machine using Terraform! ☁️
+
+I provisioned the Azure infrastructure with Terraform and automated the React application deployment using cloud-init Custom Data and Nginx.
+
+Check my DMI learning progress below. 🚀
+```
+
+7. Publish the post on LinkedIn.
+
+## Evidence
+
+### Screenshot 16 — LinkedIn Post
+
+Add a screenshot of your published LinkedIn post showing:
+
+- The React application deployment screenshot
+- The generated DMI Leaderboard message
+- Your personal DMI progress link
+
+Ensure that no passwords, private keys, account IDs, access tokens, or other sensitive information are visible.
+
+Add your screenshot here.
+
+---
+
 # Submission Instructions
 
-- Complete Tasks 0–6 in sequence.
-- Include all 15 required screenshots exactly as specified.
+- Complete Tasks 0–7 in sequence.
+- Include all 16 required screenshots exactly as specified.
 - Ensure that your full name is visible in the required screenshots.
 - Record the VM public IP address under Task 3.
 - Ensure that the submitted evidence clearly matches the required task outputs.
@@ -237,6 +278,7 @@ Remove all Azure resources created by Terraform after completing the application
 
 # Completion Checklist
 
+<<<<<<< HEAD
 - [✅] Installed Terraform and verified it using `terraform version`
 - [✅] Installed Azure CLI and verified it using `az version`
 - [✅] Signed in to Azure and confirmed the correct subscription
@@ -268,6 +310,40 @@ Remove all Azure resources created by Terraform after completing the application
 - [✅] Captured all 15 required screenshots
 - [✅] Confirmed that my full name is visible in the required screenshots
 - [✅] Checked that no passwords, keys, account IDs, access tokens, or other sensitive information are exposed
+=======
+- [ ] Installed Terraform and verified it using `terraform version`
+- [ ] Installed Azure CLI and verified it using `az version`
+- [ ] Signed in to Azure and confirmed the correct subscription
+- [ ] Installed and enabled the HashiCorp Terraform extension in VS Code
+- [ ] Created the `terraform-react-azure` project
+- [ ] Created `main.tf`
+- [ ] Defined the Terraform and AzureRM provider configuration
+- [ ] Defined the resource group
+- [ ] Defined the virtual network and subnet
+- [ ] Defined the Network Security Group
+- [ ] Configured SSH and HTTP rules
+- [ ] Defined the public IP and network interface
+- [ ] Created `cloud-init.sh`
+- [ ] Reviewed the React application repository instructions
+- [ ] Created the complete deployment workflow inside `cloud-init.sh`
+- [ ] Defined the Linux virtual machine
+- [ ] Connected `cloud-init.sh` to the VM using `custom_data`
+- [ ] Used `file()` and `base64encode()` correctly
+- [ ] Added the Terraform public IP output
+- [ ] Completed `terraform init` successfully
+- [ ] Reviewed the Terraform execution plan
+- [ ] Completed `terraform apply` successfully
+- [ ] Recorded the VM public IP
+- [ ] Connected to the VM through SSH
+- [ ] Verified that the automated deployment completed successfully
+- [ ] Verified that Nginx is running
+- [ ] Verified the React application through the browser
+- [ ] Completed `terraform destroy` successfully
+- [ ] Shared the React application deployment progress on LinkedIn by following Task 7
+- [ ] Captured all 16 required screenshots
+- [ ] Confirmed that my full name is visible in the required screenshots
+- [ ] Checked that no passwords, keys, account IDs, access tokens, or other sensitive information are exposed
+>>>>>>> upstream/main
 
 ---
 

@@ -97,7 +97,12 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
+<<<<<<< HEAD
 **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_just-built-my-first-agentic-devops-skill-share-7480856780462346242-Tb-I/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)** 
+=======
+`Add your URL here`
+
+>>>>>>> upstream/main
 ---
 
 # Completion Checklist

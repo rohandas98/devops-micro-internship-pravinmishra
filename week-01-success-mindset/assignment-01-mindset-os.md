@@ -1,17 +1,18 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
-## Purpose (Read This First)
+## Task 1 — A Belief You Hold
 
-This week is not motivation homework.
+### Question
 
-This is you building your **Mindset OS** — the system you will use for the next 5 months (and honestly, for years).
+What is something you believe to be true that most people around you would disagree with?
 
-### Expectations
+Write at least **50 words**. Be honest, specific, and use clear professional sentences.
 
+<<<<<<< HEAD
 * Be honest.
 * Be specific.
 * Be practical.
@@ -25,6 +26,9 @@ You will reuse this in later weeks. So do it properly once.
 
 
 ## Answer
+=======
+### Your Answer
+>>>>>>> upstream/main
 
 To excel or to be successful in any domain, one thing which matters the most is interest. If something is not interesting to someone its very unlikely that person may get success.. 
 Curiosity open doors for innovation and leads to a purposeful life. Every field in this world is trying to solve a problem. We shall be curious and interested to what we learn, if we aren’t curious, intersted and  just doing it just for the sake like someone told them this will bring them success it very hard to say that chances are very less. I feel this is something most people may disagree with. Most people in early days when ai was evolving was reluctant and commented that AI is bubble, will sink in few days and will not be able to code as humans, but we all know how ai evolved enormously in few years. Being reluctant and not being quickly  adaptable is the serious issue this generation is facing…
@@ -32,52 +36,153 @@ If you aren't happy inside, you may not be happy outside. If you are happy in ho
 
 ---
 
-# Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
+## Task 2 — Three Objective Truths Discovered Through Experimentation
 
-### Definition
+Write three objective truths you discovered through your own actions and results. For each truth, include one sentence for the truth and two to four lines of evidence from your life.
 
-Objective truths do not depend on opinions. They hold true regardless of how people feel.
+### Truth #1
 
+<<<<<<< HEAD
 ## Truth #1
 
 ### Truth
 Consistency is the mother of skill. 
+=======
+**Truth**
+>>>>>>> upstream/main
 
 ### Evidence from my life 
 
+<<<<<<< HEAD
 I tried to complete AWS Cloud Practioner for a long time, but without consistency I had to start fresh.. I committed 1 month straight and was able to get certified.
+=======
+**Evidence from My Life**
+
+Add your answer here...
+
+### Truth #2
+
+**Truth**
+
+Add your answer here...
+
+**Evidence from My Life**
+
+Add your answer here...
+
+### Truth #3
+
+**Truth**
+
+Add your answer here...
+
+**Evidence from My Life**
+>>>>>>> upstream/main
 
 
-## Truth #2
+## Task 3 — What Does Your 2.0 Version Look Like?
 
-### Truth
+Write and publicly publish an article about your future professional self, written as if a journalist is writing about you **3–7 years from now**.
+
+Your article must:
+
+* Be at least **300 words**.
+* Be written in the **past tense**, as if it has already happened.
+* Include specific proof such as projects, portfolio, GitHub, blogs, certifications, job role, leadership, or community contribution.
+* Be published on LinkedIn, Medium, WordPress, Blogspot, a personal blog, or a portfolio page.
+
+### My Article
+
+Paste your complete article here...
+
+### Public Article URL
+
+```text
+Paste your published article URL here...
+```
+
+### LinkedIn Post URL
+
+Create a LinkedIn post sharing your published article, then add the URL below.
+
+```text
+Paste your LinkedIn post URL here...
+```
+
+### Credit Note — DMI Self-Paced Engineer Track Students
+
+Add this credit note at the end of your public article. Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public:** https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
+
+`#DMIByPravinMishra`
+
+Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post.
+
+### Credit Note — DMI Campus Students
+
+Add this credit note at the end of your public article. Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public:** https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus
+
+`#DMIByPravinMishra`
+
+Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) and Lead Co-Mentor [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/) in your LinkedIn post.
+
+---
+
+## Task 4 — Reflection on Cutting Corners
+
+### Question
+
+Have you ever cut corners through unethical, dishonest, or shortcut behaviour (not necessarily illegal)? If yes, how did it make you feel?
+
+You do not need to tell the full story. Focus on the emotions you experienced. If your answer is yes, write **50–100 words**.
+
+### Your Answer
+
+**Yes / No:**
 
 Being Calm during tensed situation is key
 
-### Evidence from my life
+**Reflection:**
 
 Whenever I lost something I dont get crazy.. I observe, try to remember where it might have been left of, And take decision calmy and proceed step by step without rushing.
 
 ---
 
-## Truth #3
+## Task 5 — Your One-Year Non-Fiction Reading Plan
 
-### Truth
+List **10 non-fiction books** you plan to read during the next year. Include the title and author of each book. Books in any language are allowed.
 
+<<<<<<< HEAD
 Dont Commit under pressure just to be someone's favourite.
 
 ### Evidence from my life
 
 I used to accept multiple challenges parallely. That's a great mistake, multi-tasking doesnt work always efficiently. And later I felt even if I would have started just with one task standalone, that might get solved very quickly. Leaving me frustrated and questioning my self belief.
+=======
+1. Add book title and author here...
+2. Add book title and author here...
+3. Add book title and author here...
+4. Add book title and author here...
+5. Add book title and author here...
+6. Add book title and author here...
+7. Add book title and author here...
+8. Add book title and author here...
+9. Add book title and author here...
+10. Add book title and author here...
+>>>>>>> upstream/main
 
 ---
 
-# Assignment 3. What does your 2.0 version look like?
+## Task 6 — Your Life and Career Metrics
 
-### Instructions
+List the things you will measure regularly in your life and career. You only need to list the metric topics; do not include personal numbers.
 
-Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+Your list must include learning or skills, output or proof, health or energy, time or focus, and money or finance.
 
+<<<<<<< HEAD
 **Minimum 300 words.**
 
 ### Rules
@@ -264,6 +369,9 @@ List topics only. No need to share numbers.
 * Spending tracker
 
 ## My Metrics
+=======
+### My Metrics
+>>>>>>> upstream/main
 
 * Learning Hours Record Per Day and Review Per Month
 * Projects Shipped/built
@@ -274,22 +382,19 @@ List topics only. No need to share numbers.
 
 ---
 
-# Assignment 7. Brain Dump + 5-Month System Plan
+## Task 7 — Brain Dump and Three-Month System Plan
 
-## Step 1: Brain Dump (Private)
+### Step 1 — Brain Dump (Private)
 
-Do a brain dump of everything in your mind into a notebook.
+Do a private brain dump in a notebook, notes app, or document. Include everything currently on your mind, such as tasks, bills, worries, goals, pending messages, ideas, and responsibilities.
 
-Examples:
+**Did you create a brain dump?**
 
-* Bills
-* Tasks
-* Worries
-* Goals
-* Pending messages
-* Ideas
-* Responsibilities
+```text
+Yes / No
+```
 
+<<<<<<< HEAD
 ### Did You Do It?
 
 **Yes / No**
@@ -311,6 +416,9 @@ Example:
 * Mon–Thu: 60 min deep work
 * Sat: DMI session
 * Sun: Weekly review
+=======
+### Step 2 — My Three-Month Routine and Focus Blocks
+>>>>>>> upstream/main
 
 #### My Weekly Routine
 
@@ -318,59 +426,53 @@ Example:
 * Sat - DMI Session
 * Sun - Weekly review, 3 hour deep work.
 
----
-
-### Focus Blocks
-
-#### When Will You Do DMI Work? (Days + Time)
+#### When Will I Complete My DMI Work? (Include Days and Time)
 
 * Mon - Fri : Morning 7.30 AM to 10:30 AM, Evening: 9.30PM to 10.30PM
 * Sun :  Morning 10.30 AM to 1.30PM
 
 
-#### How Many Sessions Per Week?
+#### How Many DMI Work Sessions Will I Complete Each Week?
 
 * Morning : 5 sessions (Mandatory), Evening Session: Mainly for Review and Recall and next day planning.
 
----
-
-### Distraction Rules
-
-Examples:
-
-* Phone rules
-* Social media rules
-* Environment setup
-
 #### My Distraction Rules
 
+<<<<<<< HEAD
 * Phone on Silent mode or in another room strictly during sessions.
 
 * Social Media usage only during my travel hours to and from office only not every day only when time permits.. No social media usage during DMI Sessions.
 
 * Library visit to concentrate on deep work session for long hours.
+=======
+* Add your answer here...
+* Add your answer here...
+* Add your answer here...
+* Add your answer here...
+>>>>>>> upstream/main
 
 ---
 
-# Reflection – Week 1
+## Task 8 — Week 1 Reflection and Proof of Work
 
-### Biggest insight I got about myself this week
+### Biggest Insight I Got About Myself This Week
 
 I used to deep dive and chase perfection on every topic. 
 But as DMI session started with the quote: "Concentrate on Completion not on Perfection" I need to keep this on my mind.
 
-### My biggest weakness/loop I noticed
+### My Biggest Weakness or Loop I Noticed
 
 Time Management is a weakness. I dont waste time less on leisure and fun but still I lose track of my time.
 
 Always late or delayed. Time Management is the biggest weakness as of now.
 
-### One system I will implement from this week (exact habit + time)
+### One System I Will Implement From This Week (Exact Habit and Time)
 
 Respect Time and Do activity as per planning and not getting lazy easily.
 
-### LinkedIn Post
+### Proof of Work
 
+<<<<<<< HEAD
 Week 1 of DMI Cohort 3 with Pravin Mishra — and I'm already rethinking how I work. 💡
 
 ![Assignment 3 screenshots_1](screenshots/linked_in_post_image.png)
@@ -394,15 +496,46 @@ Thank you Pravin Mishra Sir and the DMI community for setting the tone. 🙏
 
 hashtag#DMI hashtag#Cohort3 hashtag#Learning hashtag#GrowthMindset hashtag#TimeManagement hashtag#WeekOneReflection
 
+=======
+**LinkedIn Post URL**
+
+```text
+Paste your LinkedIn post URL here...
+```
+
+**Blog / Medium / Public Article URL**
+
+```text
+Paste your published article URL here...
+```
+>>>>>>> upstream/main
 
 ---
 
-## 10. Proof of Work
+## Completion Checklist
 
+<<<<<<< HEAD
 - LinkedIn Post URL: **[Linked In Post](https://www.linkedin.com/posts/rohan-kumar-das-77aa771b3_dmi-cohort3-learning-share-7478300189817069568-IJ1o/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHQUo4BewhkN5s9P9q2BaWnpLFrMLZVnWM)**  
 - Blog / Medium : **[MEDIUM](https://medium.com/@rd43403/from-writing-code-to-running-the-cloud-how-rohan-kumar-das-became-the-architect-behind-the-7b49305a5780?sharedUserId=rd43403)**  
+=======
+* [ ] All eight tasks are completed.
+* [ ] All written answers are honest, specific, and written in clear professional sentences.
+* [ ] Task 1 has at least 50 words.
+* [ ] Task 2 includes all three truths and evidence from my life.
+* [ ] Task 3 includes a 300+ word article written in past tense.
+* [ ] My Task 3 article is published on an approved public platform.
+* [ ] I added the correct DMI credit note and replaced `YOUR-GITHUB-USERNAME`.
+* [ ] I published a LinkedIn post sharing my Task 3 article.
+* [ ] Task 5 has 10 non-fiction books with titles and authors.
+* [ ] Task 6 includes learning, output, health, time, and finance metrics.
+* [ ] I completed the private brain dump for Task 7.
+* [ ] I added a realistic three-month routine, DMI focus blocks, and distraction rules.
+* [ ] I completed the Week 1 reflection.
+* [ ] I added both the LinkedIn post and public article URLs under Task 8.
+>>>>>>> upstream/main
 
 ---
+
 
 ## 📌 About DMI & CloudAdvisory
 
@@ -423,4 +556,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*

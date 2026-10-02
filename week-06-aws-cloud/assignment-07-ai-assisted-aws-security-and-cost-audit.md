@@ -1,6 +1,6 @@
 # Assignment 7 — AI-Assisted AWS Security and Cost Audit
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -304,17 +304,13 @@ Your submission must include:
 - Your Full Name visible in the required outputs
 - LinkedIn post URL
 - Screenshot of the published LinkedIn post
-
-Submit only a Google Doc link.
-
-Add the GitHub URL inside the Google Doc.
-
-Follow the Assignment Submission Guidelines.
+- GitHub repository URL (containing all assignment files)
 
 ---
 
 # Completion Checklist
 
+<<<<<<< HEAD
 - [✅] Task 1: AWS resources confirmed and workspace created (Screenshots 1–2)
 - [✅] Task 2: `CLAUDE.md` created with project context and safety rules (Screenshot 3)
 - [✅] Task 3: Claude produced a read-only five-check audit plan before any script existed (Screenshot 4)
@@ -331,18 +327,35 @@ Follow the Assignment Submission Guidelines.
 - [✅] GitHub URL included in the Google Doc
 - [✅] Google Doc is accessible
 - [✅] Link tested in incognito mode
+=======
+- [ ] Task 1: AWS resources confirmed and workspace created (Screenshots 1–2)
+- [ ] Task 2: `CLAUDE.md` created with project context and safety rules (Screenshot 3)
+- [ ] Task 3: Claude produced a read-only five-check audit plan before any script existed (Screenshot 4)
+- [ ] Task 4: `aws-audit.sh` built, executable, and passes `bash -n` (Screenshots 5–7)
+- [ ] Task 5: Baseline audit captured and saved with Full Name visible (Screenshots 8–9)
+- [ ] Task 6: `/aws-audit` skill loads and runs successfully with no Write permission (Screenshots 10–11)
+- [ ] Task 7: A real finding was fixed by you and reverified as PASS (Screenshots 12–13)
+- [ ] Skill never executed a remediation command
+- [ ] New security group rule is scoped to your own IP, not `0.0.0.0/0`
+- [ ] All 13 required task screenshots are included
+- [ ] All "Notes You Must Write" questions are answered in your own words
+- [ ] No AWS credentials or unblurred account IDs exposed
+- [ ] LinkedIn post published and URL submitted
+- [ ] GitHub repository URL included in submission
+- [ ] All assignment files committed and visible in GitHub repository
+>>>>>>> upstream/main
 
 ---
 
 # Final Submission
 
-Submit only your Google Doc link.
+Submit your GitHub repository URL containing all assignment files, screenshots, reports, and output.
 
-### Question
+### GitHub Repository URL
 
-Based on the instructions and tasks above, submit your completed document with all required explanations, screenshots, reports, script file, skill file, and GitHub URL.
+Paste your GitHub repository URL here:
 
-`Add your Google Doc link here`
+`Add your GitHub repository URL here`
 
 ---
 
@@ -366,4 +379,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
